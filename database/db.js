@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongoURI = 'mongodb+srv://mern-vercel:<password>@mern-vercel.tqsdz6e.mongodb.net/task-manager';
+const mongoURI = 'mongodb+srv://mern-vercel:6FuccymFEqx1aVNr@mern-vercel.tqsdz6e.mongodb.net/task-manager';
 const options = {
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
