@@ -29,7 +29,7 @@ const AddTask = () => {
 	return (
 		<div>
 			<div className='addtask'>
-				<form action='' onSubmit={handleSubmit}>
+				<form className='form'action='' onSubmit={handleSubmit}>
 					<input
 						type='text'
 						name='task'

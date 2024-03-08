@@ -13,6 +13,14 @@
     &__right {
         width: 85%;
         margin-top: 2rem;
+        .button{
+            background-color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            &:hover{
+                background-color: rgba(58, 228, 86, 0.8);
+            }
+        }
     }
 
     .box {
